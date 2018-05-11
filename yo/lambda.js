@@ -5,5 +5,5 @@ exports.handler = function (event, context, callback) {
 	let x = 0;
 	let y = 1;
 
-	callback(null, 'Hopes');
+	callback(null, 'Hopes X');
 }

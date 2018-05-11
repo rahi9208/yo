@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "aws-sdk": "2.176.0",
-    "mathjs": "4.2.2"
+    "mathjs": "4.2.2",
+    "lodash": "4.17.10"
   }
 }
