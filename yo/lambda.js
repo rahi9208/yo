@@ -17,5 +17,5 @@ exports.handler = function (event, context, callback) {
 	});
 
 	console.log("Test");
-	callback(null, 'Hopes X');
+	callback(null,"Hi");
 }
